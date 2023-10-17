@@ -4,3 +4,4 @@ datos/*
 GIT_IGNORE/*
 codigo_sucio_AEMET.ipynb
 .env
+.DS_Store

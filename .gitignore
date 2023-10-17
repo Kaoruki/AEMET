@@ -1,0 +1,6 @@
+config.py
+parquets/*
+datos/*
+GIT_IGNORE/*
+codigo_sucio_AEMET.ipynb
+.env
